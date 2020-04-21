@@ -1,0 +1,33 @@
+[
+      {
+        "name": "Prasad Rao",
+        "designation": "Senior Software Engineer",
+        "salary": "20000"
+      },
+      {
+        "name": "Mandar Jadhav",
+        "designation": "Software Engineer",
+        "salary": "10000"
+      },
+      {
+        "name": "Pooja Nair",
+        "designation": "Associate Consultant",
+        "salary": "30000"
+      },
+      {
+        "name": "Sumant Mehendale",
+        "designation": "Manager",
+        "salary": "50000"
+      },
+      {
+        "name": "Shanaya Khanna",
+        "designation": "Software Engineer",
+        "salary": "11000"
+      },
+      {
+        "name": "Sandeep Patil",
+        "designation": "Associate Consultant",
+        "salary": "25000"
+      }
+      
+    ]
