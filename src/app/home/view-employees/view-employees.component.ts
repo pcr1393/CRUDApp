@@ -11,12 +11,13 @@ import { EmployeesListService } from 'src/app/Services/employees-list.service';
 export class ViewEmployeesComponent implements OnInit {
 
   employees: employee[];
+  //
   queryString: string;
   employeeIndexToBeDeleted: number;
   constructor(private router: Router, private employeeService: EmployeesListService) { }
 
   ngOnInit() {
-    
+
     this.employeeService.getAllEmployees().subscribe(
       data => {
         this.employees = data;
